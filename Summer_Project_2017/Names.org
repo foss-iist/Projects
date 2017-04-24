@@ -7,11 +7,11 @@
 |   1 | Bharath Sai Guhan   | SC16B123 | 9447787457 | bharathiist@gmail.com          | Android Dev                | Home      | NA                     |
 |   2 | Suvrajit Ghosh      | SC16b118 | 9447785411 | suvrajitghosh1999@gmail.com    | Android Dev                | Home      | NA                     |
 |   3 | Subham Saha         | SC16b053 | 9447784511 | subhamsaha0216@gmail.com       | Android Dev                | Home      | NA                     |
-|   4 | Swetha Krishnan     | SC16B119 | 8943550706 | swethakrishnan126@gmail.com    | Android dev, data sciences | IIST/Home | ?                      |
+|   4 | Swetha Krishnan     | SC16B119 | 8943550706 | swethakrishnan126@gmail.com    | Android dev, Data sciences | IIST/Home | ?                      |
 |   5 | manas tyagi         | SC16b029 | 9447784185 | manastyagi05@gmail.com         | Basilisk                   | IIST      | July 1 - July 24       |
 |   6 | Saurav Kumar        | SC16B108 | 9447785603 | saurav9878@gmail.com           | Basilisk                   | IIST      | June 24 - July 24      |
-|   7 | Kunal Garg          | SC16B027 | 9447785203 | kunalgarg455@gmail             | Basilisk                   | IIST      | ?                      |
-|   8 | Kush Arya           | SC16B028 | 8789762061 | nirajkush8@gmail.com           | Basilisk/Gravity model     | Home      | NA                     |
+|   7 | Kunal Garg          | SC16B027 | 9447785203 | kunalgarg455@gmail             | Basilisk                   | IIST      | June 24 - July 24      |
+|   8 | Kush Arya           | SC16B028 | 8789762061 | nirajkush8@gmail.com           | Basilisk/Gravity model     | IIST      | July 1 - July 24       |
 |   9 | Krishna Kant        | SC16B087 | 9447785751 | krishnakantmajor2109@gmail.com | Data Processing Tools      | Home      | NA                     |
 |  10 | Prashant Kumar      | SC16B098 | 9447785610 | prashantkumarsahni@gmail.com   | Data Processing Tools      | Home      | NA                     |
 |  11 | Niharranjan Pradhan | SC16B037 | 8895576246 | pradhanniharranjan9@gmail.com  | Data Sciences              | Home      | NA                     |
