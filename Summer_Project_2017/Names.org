@@ -27,6 +27,15 @@
 |  21 | Vivek Swami         | SC16B059 | 7034543064 | swamivivek.924536@gmail.com    | Gravity Model              | Home      | NA                |
 #+TBLFM: $1=@#-1
 
+#+Caption: Miscellaneous Tools (Not on main list)
+#+Name: tab:specprojs
+| Sno | Name       | SCode    |     Number | email                        | Home/IIST |
+|-----+------------+----------+------------+------------------------------+-----------|
+|   1 | Sanjutha   | SC15b121 | 9497300267 | sanjuthaindrajit97@gmail.com | IIST      |
+|   2 | D. Bhavana | SC15B142 | 9496295497 | bhavana.stargazer@gmail.com  | IIST      |
+|   3 | Gayatri    | SC15b144 | 7025540369 | gayuvijayan@gmail.com        | IIST      |
+#+TBLFM: $1=@#-1
+
 * On Campus Projects
 #+Caption: Basilisk Project (On-Campus)
 | Sno | Name         | SCode    |     Number | Email                  | Stay Plan         |
@@ -77,14 +86,4 @@
 |   1 | Krishna Kant   | SC16B087 | 9447785751 | krishnakantmajor2109@gmail.com |
 |   2 | Prashant Kumar | SC16B098 | 9447785610 | prashantkumarsahni@gmail.com   |
 #+TBLFM: $1=@#-1
-
-#+Caption: Miscellaneous Tools (Not on main list)
-#+Name: tab:specprojs
-| Sno | Name       | SCode    |     Number | email                        | Home/IIST |
-|-----+------------+----------+------------+------------------------------+-----------|
-|   1 | Sanjutha   | SC15b121 | 9497300267 | sanjuthaindrajit97@gmail.com | IIST      |
-|   2 | D. Bhavana | SC15B142 | 9496295497 | bhavana.stargazer@gmail.com  | IIST      |
-|   3 | Gayatri    | SC15b144 | 7025540369 | gayuvijayan@gmail.com        | IIST      |
-#+TBLFM: $1=@#-1
-
 
