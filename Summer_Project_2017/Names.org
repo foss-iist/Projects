@@ -27,6 +27,15 @@
 |  21 | Ankit gupta         | SC16b009 | 9447785149 | ankitguptagkp@gmail.com        | android development        | Home      | NA                     |
 #+TBLFM: $1=@#-1
 
+#+Caption: Basilisk Project
+| Sno | Name         | SCode    |     Number | Email                  | Plan              |
+|-----+--------------+----------+------------+------------------------+-------------------|
+|   1 | manas tyagi  | SC16b029 | 9447784185 | manastyagi05@gmail.com | July 1 - July 24  |
+|   2 | Saurav Kumar | SC16B108 | 9447785603 | saurav9878@gmail.com   | June 24 - July 24 |
+|   3 | Kunal Garg   | SC16B027 | 9447785203 | kunalgarg455@gmail     | June 24 - July 24 |
+|   4 | Kush Arya    | SC16B028 | 8789762061 | nirajkush8@gmail.com   | July 1 - July 24  |
+#+TBLFM: $1=@#-1
+
 #+Caption: Miscellaneous Tools
 #+Name: tab:specprojs
 | Sno | Name       | SCode    |     Number | email                        | Home/IIST |
@@ -35,3 +44,5 @@
 |   2 | D. Bhavana | SC15B142 | 9496295497 | bhavana.stargazer@gmail.com  | IIST      |
 |   3 | Gayatri    | SC15b144 | 7025540369 | gayuvijayan@gmail.com        | IIST      |
 #+TBLFM: $1=@#-1
+
+
