@@ -25,7 +25,7 @@
 |  19 | Niharranjan Pradhan | SC16B037 | 8895576246 | pradhanniharranjan9@gmail.com  | Data Sciences              | Home      | NA                |   |   |   |   |   |   |   |   |
 |  20 | G.Manasvi           | SC15B111 | 9497300432 | manasvig11@gmail.com           | Data sciences              | IIST      | ?                 |   |   |   |   |   |   |   |   |
 |  21 | Pragya Shah         | SC15B107 | 9497300310 | pragyashree19@gmail.com        | Data sciences              | Home      | NA                |   |   |   |   |   |   |   |   |
-|  22 | Abhijith Prakash    | SC16B003 | 9400490424 | abhijithprakash19@gmail.com    | Data sciences              | IIST      | ?                 |   |   |   |   |   |   |   |   |
+|  22 | Abhijith Prakash    | SC16B003 | 9400490424 | abhijithprakash19@gmail.com    | Data sciences/Basilisk     | IIST      | ?                 |   |   |   |   |   |   |   |   |
 |  23 | Debottam sukla      | SC16b075 | 9447786083 | debottam7778@gmail.com         | Data sciences              | Home      | NA                |   |   |   |   |   |   |   |   |
 |  24 | Vivek Swami         | SC16B059 | 7034543064 | swamivivek.924536@gmail.com    | Gravity Model              | Home      | NA                |   |   |   |   |   |   |   |   |
 #+TBLFM: $1=@#-1
