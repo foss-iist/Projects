@@ -19,12 +19,11 @@
 |  13 | Krishna Kant        | SC16B087 | 9447785751 | krishnakantmajor2109@gmail.com | Data Processing Tools      | Home      | NA                |
 |  14 | Prashant Kumar      | SC16B098 | 9447785610 | prashantkumarsahni@gmail.com   | Data Processing Tools      | Home      | NA                |
 |  15 | Niharranjan Pradhan | SC16B037 | 8895576246 | pradhanniharranjan9@gmail.com  | Data Sciences              | Home      | NA                |
-|  16 | G.Manasvi           | SC15B111 | 9497300432 | manasvig11@gmail.com           | Data sciences              | IIST      | ?                 |
+|  16 | G. Manasvi          | SC15B111 | 9497300432 | manasvig11@gmail.com           | Data sciences              | IIST      | ?                 |
 |  17 | Pragya Shah         | SC15B107 | 9497300310 | pragyashree19@gmail.com        | Data sciences              | Home      | NA                |
 |  18 | Abhijith Prakash    | SC16B003 | 9400490424 | abhijithprakash19@gmail        | Data sciences              | IIST      | ?                 |
-|  19 | Abhijith Prakash    | SC16b003 | 9400490424 | abhijithpraka sh@yahoo.com     | Data sciences              | IIST      | ?                 |
-|  20 | Debottam sukla      | SC16b075 | 9447786083 | debottam7778@gmail.com         | Data sciences              | Home      | NA                |
-|  21 | Vivek Swami         | SC16B059 | 7034543064 | swamivivek.924536@gmail.com    | Gravity Model              | Home      | NA                |
+|  19 | Debottam sukla      | SC16b075 | 9447786083 | debottam7778@gmail.com         | Data sciences              | Home      | NA                |
+|  20 | Vivek Swami         | SC16B059 | 7034543064 | swamivivek.924536@gmail.com    | Gravity Model              | Home      | NA                |
 #+TBLFM: $1=@#-1
 
 #+Caption: Miscellaneous Tools (Not on main list)
@@ -52,11 +51,10 @@
 |   1 | Swetha Krishnan     | SC16B119 | 8943550706 | swethakrishnan126@gmail.com   |                   |
 |   2 | Saurav Kumar        | SC16B108 | 9447785603 | saurav9878@gmail.com          | June 24 - July 24 |
 |   3 | Niharranjan Pradhan | SC16B037 | 8895576246 | pradhanniharranjan9@gmail.com | NA                |
-|   4 | G.Manasvi           | SC15B111 | 9497300432 | manasvig11@gmail.com          | ?                 |
+|   4 | G. Manasvi          | SC15B111 | 9497300432 | manasvig11@gmail.com          | ?                 |
 |   5 | Pragya Shah         | SC15B107 | 9497300310 | pragyashree19@gmail.com       | NA                |
 |   6 | Abhijith Prakash    | SC16B003 | 9400490424 | abhijithprakash19@gmail       | ?                 |
-|   7 | Abhijith Prakash    | SC16b003 | 9400490424 | abhijithpraka sh@yahoo.com    | ?                 |
-|   8 | Debottam sukla      | SC16b075 | 9447786083 | debottam7778@gmail.com        | NA                |
+|   7 | Debottam sukla      | SC16b075 | 9447786083 | debottam7778@gmail.com        | NA                |
 #+TBLFM: $1=@#-1
 
 * Off Campus Projects
