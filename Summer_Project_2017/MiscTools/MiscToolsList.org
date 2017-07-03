@@ -1,0 +1,12 @@
+#+TITLE: List of Miscellaneous Tools & Activities
+#+startup: indent
+
+* Tools
+  + LaTeX & Tikz
+  + Python & Julia
+  + gnuplot & Awk
+  
+* Exercises
+  + Creating the outline of the FOSS Group Logo using Tikz
+  + Solving ODE's using Python &/or Julia
+  + Extracting data from large data files using awk and plotting them using gnuplot

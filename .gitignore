@@ -1,2 +1,10 @@
 *~
 *.ods
+*aux
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+/Summer_Project_2017/Permission_Letter/auto/Pletter17.el
+/Summer_Project_2017/MiscTools/LaTeX_Tikz_Week1/auto/Exercises_1.el
