@@ -1,8 +1,0 @@
-#+TITLE: Online References for Tikz and Supported Libraries
-#+options: toc:nil
-
-+ [[https://tex.stackexchange.com/questions/42611/list-of-available-tikz-libraries-with-a-short-introduction/43038#43038][Useful TeX Stack Exchange answer]] :: Top answer lists out the
-     supported Tikz libraries for special functionality like snakes
-     for drawing zig-zag lines (for a spring element, for instance).
-+ [[http://www.texample.net/tikz/examples/][List of Examples]] :: A nearly comprehensive list of examples; look
-     into these for more advanced applications
